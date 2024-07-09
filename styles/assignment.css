@@ -156,3 +156,25 @@
 /* redius doesn't change */
   
 }
+
+/* section 03 */
+
+.main-03{
+  margin: 164px 150px 50px 150px;
+}
+
+.section-03{
+   text-align: center;
+}
+.section-03-title{
+    font-size: 32px;
+    font-weight: bolder;
+    color: #0D1321;
+
+}
+.section-03-description{
+  font-size: 16px;
+  
+  color: #0D1321;
+}
+
