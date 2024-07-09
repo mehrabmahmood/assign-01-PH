@@ -1,0 +1,158 @@
+
+/* font class */
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
+/* header */
+.header-class{
+    
+}
+
+.header-top{
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 150px;
+}
+.header-text{
+  font-size: 28px;
+  font-weight: bolder;
+}
+.header-button{
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 8px;
+  height: 57px;
+  width: 244px;
+  color: #0D1321;
+}
+
+/* banner */
+
+
+  
+.header-elements{
+  background-image: url('../assets/Hero-bg.png');
+    
+  background-position:  center ;
+   text-align: center;
+   
+   
+   padding: 26px 221px 45px 221px;
+   
+}
+
+.banner-image{
+  height: 240px;
+  width: 240px;
+}
+.banner-title{
+   font-size: 48px;
+   font-weight: bolder;
+}
+.banner-description{
+  font-size: 16;
+  font-weight: 200;
+}
+ 
+.banner-button{
+  height: 65px;
+  width: 244px;
+  background-color: #0D1321 ;
+  color:#FFFFFF ;
+  font-size: 20;
+  font-weight: 600;
+  padding: 21px 24px;
+  text-align: center;
+}
+
+
+/* main */
+
+.main-01{
+  margin: 74px 152px 90px 148px;
+  padding: 80px 97px;
+  text-align: center;
+  
+}
+.text-center{
+  text-align: center;
+}
+.main-01-title{
+      font-size: 32px;
+      font-weight: bolder;
+      color: #0D1321;
+}
+.main-01-description{
+  font-size: 16px;
+  color: #0D1321;
+}
+.main-descripton-01{
+  display: flex;
+  justify-content: space-between;
+  margin: 80px 0px 80px 0px;
+  
+}
+
+.description-position{
+  
+  height: 219px;
+  width: 447px;
+  
+}
+
+
+.description-title{
+  font-size: 24px;
+  font-weight: bold;
+  color: #0D1321;
+}
+.title-description{
+  font-size: 16px;
+  text-align: center;
+  
+  color: #0D1321;
+}
+.title-button{
+  height: 47px;
+  width:171px ;
+  font-size: 20px;
+  font-weight: 600;
+  color: #0D1321;
+}
+.description-image{
+  height: 240px;
+  width: 274px;
+}
+
+
+/* main section 02 */
+.main-02{
+  margin: 90px 152px 150px 148px;
+  padding: 80px 97px;
+}
+
+.section-02{
+  text-align: center;
+}
+
+.section-02-title{
+  font-size:32px ;
+  font-weight:bolder ;
+  color: #0D1321;
+}
+
+.section-02-description{
+  font-size: 16;
+  color: #0D1321;
+}
+.section-video{
+  text-align: center;
+  padding: 32px;
+  border-radius: 16px;
+/* redius doesn't change */
+  
+}
