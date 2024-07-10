@@ -150,8 +150,9 @@
   color: #0D1321;
 }
 .section-video{
+  
   text-align: center;
-  padding: 32px;
+  padding: 32px 0px 10px 0px;
   border-radius: 16px;
 /* redius doesn't change */
   
@@ -178,3 +179,75 @@
   color: #0D1321;
 }
 
+/* section 03 skill */
+.skill-items{
+  display: flex;
+  justify-content: space-around;
+  gap: 24px;
+  margin: 48px 0px 0px 0px;
+  
+  
+}
+
+.skill-title{
+   font-size:24px ;
+   font-weight: bolder ;
+   color:#0D1321 ;
+}
+
+.skill-description{
+    font-size: 16px;
+    color: #0D1321;
+}
+.skill-item-01{
+  background-color: rgba(255, 76, 30, 0.05);
+  
+  border-radius: 16px;
+  padding: 40px;
+  width: 300px;
+}
+.skill-item-02{
+  background-color: rgba(0, 76, 232, 0.05);
+  
+  border-radius: 16px ;
+  padding: 40px;
+  width: 300px;
+}
+.skill-item-03{
+  background-color: rgba(255, 223, 0, 0.05);
+  
+  border-radius: 16px;
+  padding: 40px;
+  width: 300px;
+}
+
+.learn-more{
+  font-size: 16px;
+  color: black;
+}
+
+
+/* footer */
+.footer-background{
+  background-image: url('../assets/handshake.jpg');
+
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.footer-items{
+  text-align: center;
+  padding: 64px 205px 24px 205px;
+
+}
+
+.footer-title{
+  font-size:32px ;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 1);
+}
+.footer-description{
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1) ;
+}
+
+  
